@@ -1,0 +1,5 @@
+{
+    "C_Cpp.default.compileCommands": "/home/natounlars/Projects/mc-launcher/builddir/compile_commands.json",
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "mesonbuild.configureOnOpen": true
+}

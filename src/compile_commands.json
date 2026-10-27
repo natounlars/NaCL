@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "/home/natounlars/Projects/mc-launcher/src",
+    "command": "/opt/llvm-master/bin/clang-llvm-libc -Imc-launcher.p -I. -I.. -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glycin-2 -I/usr/include/cairo -I/usr/include/libxml2 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/graphene-1.0 -I/usr/lib64/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/libadwaita-1 -L/opt/llvm-master/lib64 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -pthread -mfpmath=sse -msse -msse2 -mfpmath=sse -msse -msse2 -DWITH_GZFILEOP -MD -MQ mc-launcher.p/meson-generated_.._mc-launcher-resources.c.o -MF mc-launcher.p/meson-generated_.._mc-launcher-resources.c.o.d -o mc-launcher.p/meson-generated_.._mc-launcher-resources.c.o -c mc-launcher-resources.c",
+    "file": "mc-launcher-resources.c",
+    "output": "mc-launcher.p/meson-generated_.._mc-launcher-resources.c.o"
+  },
+  {
+    "directory": "/home/natounlars/Projects/mc-launcher/src",
+    "command": "/opt/llvm-master/bin/clang-llvm-libc -Imc-launcher.p -I. -I.. -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glycin-2 -I/usr/include/cairo -I/usr/include/libxml2 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/graphene-1.0 -I/usr/lib64/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/libadwaita-1 -L/opt/llvm-master/lib64 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -pthread -mfpmath=sse -msse -msse2 -mfpmath=sse -msse -msse2 -DWITH_GZFILEOP -MD -MQ mc-launcher.p/meson-generated_.._src_main.c.o -MF mc-launcher.p/meson-generated_.._src_main.c.o.d -o mc-launcher.p/meson-generated_.._src_main.c.o -c src/main.c",
+    "file": "src/main.c",
+    "output": "mc-launcher.p/meson-generated_.._src_main.c.o"
+  },
+  {
+    "directory": "/home/natounlars/Projects/mc-launcher/src",
+    "command": "/opt/llvm-master/bin/clang-llvm-libc -Imc-launcher.p -I. -I.. -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glycin-2 -I/usr/include/cairo -I/usr/include/libxml2 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/graphene-1.0 -I/usr/lib64/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/libadwaita-1 -L/opt/llvm-master/lib64 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -pthread -mfpmath=sse -msse -msse2 -mfpmath=sse -msse -msse2 -DWITH_GZFILEOP -MD -MQ mc-launcher.p/meson-generated_.._src_mc-application.c.o -MF mc-launcher.p/meson-generated_.._src_mc-application.c.o.d -o mc-launcher.p/meson-generated_.._src_mc-application.c.o -c src/mc-application.c",
+    "file": "src/mc-application.c",
+    "output": "mc-launcher.p/meson-generated_.._src_mc-application.c.o"
+  },
+  {
+    "directory": "/home/natounlars/Projects/mc-launcher/src",
+    "command": "/opt/llvm-master/bin/clang-llvm-libc -Imc-launcher.p -I. -I.. -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glycin-2 -I/usr/include/cairo -I/usr/include/libxml2 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/graphene-1.0 -I/usr/lib64/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/libadwaita-1 -L/opt/llvm-master/lib64 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -pthread -mfpmath=sse -msse -msse2 -mfpmath=sse -msse -msse2 -DWITH_GZFILEOP -MD -MQ mc-launcher.p/meson-generated_.._src_mc-config.c.o -MF mc-launcher.p/meson-generated_.._src_mc-config.c.o.d -o mc-launcher.p/meson-generated_.._src_mc-config.c.o -c src/mc-config.c",
+    "file": "src/mc-config.c",
+    "output": "mc-launcher.p/meson-generated_.._src_mc-config.c.o"
+  },
+  {
+    "directory": "/home/natounlars/Projects/mc-launcher/src",
+    "command": "/opt/llvm-master/bin/clang-llvm-libc -Imc-launcher.p -I. -I.. -I/usr/include/gtk-4.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glycin-2 -I/usr/include/cairo -I/usr/include/libxml2 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/pixman-1 -I/usr/include/graphene-1.0 -I/usr/lib64/graphene-1.0/include -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/usr/include/libadwaita-1 -L/opt/llvm-master/lib64 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -pthread -mfpmath=sse -msse -msse2 -mfpmath=sse -msse -msse2 -DWITH_GZFILEOP -MD -MQ mc-launcher.p/meson-generated_.._src_mc-instance.c.o -MF mc-launcher.p/meson-generated_.._src_mc-instance.c.o.d -o mc-launcher.p/meson-generated_.._src_mc-instance.c.o -c src/mc-instance.c",
+    "file": "src/mc-instance.c",
+    "output": "mc-launcher.p/meson-generated_.._src_mc-instance.c.o"
+  }
+]
